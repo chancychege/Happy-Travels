@@ -1,7 +1,16 @@
 h1{
   text-align: center;
+  color:#f7325e;
 }
-
-p{
-  font-style: italic;
+div{
+  color: blue;
+}
+span{
+  color: red;
+}
+.gay{
+  color: red;
+}
+body{
+  color: red;
 }
